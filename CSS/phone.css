@@ -8,6 +8,7 @@
 }
 #navbar{
     flex-direction: column;
+    height: 130px;
 }
 
 /* Home section */
